@@ -1,0 +1,10 @@
+{
+    "name": "yxz-homepage",
+    "version": "0.0.0",
+    "description": "fuel yo desire",
+    "scripts": {
+      "start": "npx http-server ./"
+    },
+    "author": "irb0gie",
+    "license": "UNLICENSED"
+  }
